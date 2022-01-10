@@ -8,6 +8,7 @@
 [![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=393939)](https://cyclonedx.org/slack/invite)
 [![Group Discussion](https://img.shields.io/badge/discussion-groups.io-blue.svg)](https://groups.io/g/CycloneDX)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/CycloneDX_Spec)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVinodAnandan%2Fcyclonedx-gomod.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVinodAnandan%2Fcyclonedx-gomod?ref=badge_shield)
 
 *cyclonedx-gomod* creates CycloneDX Software Bill of Materials (SBOM) from Go modules
 
@@ -76,6 +77,9 @@ Usage of cyclonedx-gomod:
   -version
         Show version
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVinodAnandan%2Fcyclonedx-gomod.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVinodAnandan%2Fcyclonedx-gomod?ref=badge_large)
 
 ### Example
 
